@@ -36,62 +36,64 @@ profiles:
     url: https://scholar.google.com/
 
 interests:
-  - ИИ
-  - Менеджмент
-  - Спортзал
+  - Математика
+  - Моделирование и симуляции
+  - Искусственный интеллект
+  - Научные исследования
 
 education:
   - area: Student
-    institution: RUDN
+    institution: МГУ
     date_start: 2024-09-01
-    date_end: 2028-05-31
-    summary: 
-      
+    date_end: 2028-06-30
+    summary: Студентка факультета математики и механики, интересуюсь теоретической математикой, численными методами и их применением в реальных задачах.
+
 work:
   - position: Student
-    company_name: RUDN
+    company_name: МГУ
     company_url: ''
     company_logo: ''
     date_start: 2024-09-01
     date_end: ''
-    summary: 
+    summary: Участвую в научных проектах, занимаюсь исследованием математических моделей, а также разрабатываю алгоритмы для численных расчетов.
 
 # Skills
-# Add your own SVG icons to `assets/media/icons/`
+# Add your own SVG icons to assets/media/icons/
 skills:
   - name: Хард скиллы
     items:
-      - name: Python
-        description: ''
-        percent: 60
-        icon: code-bracket
-      - name: Переговоры
-        description: ''
+      - name: MATLAB
+        description: Опыт работы с MATLAB для численного моделирования и анализа данных.
         percent: 80
-        icon: chart-bar
-      - name: DataScience
-        description: ''
-        percent: 40
-        icon: circle-stack
+        icon: code
+      - name: Линейная алгебра
+        description: Прочные знания в области линейной алгебры и применения её в решении задач.
+        percent: 90
+        icon: function
+      - name: Численные методы
+        description: Опыт разработки и применения численных методов для решения дифференциальных уравнений.
+        percent: 70
+        icon: calculator
   - name: Хобби
-    color: '#eeac02'
-    color_border: '#f0bf23'
+    color: '#8d42f5'
+    color_border: '#9b66f5'
     items:
-      - name: Прогулки
-        description: ''
-        percent: 75
-      - name: Спортзал
-        description: ''
-        percent: 100
-      - name: Языки
-        description: ''
+      - name: Чтение научных статей
+        description: Чтение современных научных публикаций по математике и механике.
+        percent: 85
+      - name: Скейтбординг
+        description: Увлекаюсь скейтбордингом для поддержания физической активности и скорости реакции.
+        percent: 70
+      - name: Программирование
+        description: Создание программных решений для решения математических задач.
         percent: 80
 
 languages:
   - name: Русский
     percent: 100
   - name: Английский
-    percent: 60
+    percent: 75
+
 
 # Awards.
 #   Add/remove as many awards below as you like.

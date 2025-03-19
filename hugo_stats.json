@@ -6,6 +6,7 @@
       "aside",
       "audio",
       "body",
+      "br",
       "button",
       "circle",
       "code",
@@ -13,6 +14,7 @@
       "div",
       "em",
       "footer",
+      "g",
       "h1",
       "h2",
       "h3",
@@ -423,6 +425,7 @@
       "pb-8",
       "pl-1",
       "pl-2",
+      "pl-4",
       "pl-5",
       "place-self-center",
       "portrait-title",
@@ -473,6 +476,7 @@
       "rtl:hidden",
       "rtl:pl-9",
       "rtl:pr-3",
+      "rtl:pr-4",
       "rtl:text-left",
       "scale-95",
       "scroll-my-6",
@@ -483,6 +487,7 @@
       "shrink-0",
       "sidebar-active-item",
       "skills-content",
+      "skills-description",
       "skills-icon",
       "skills-name",
       "sm:-inset-x-6",
@@ -572,14 +577,19 @@
       "z-30"
     ],
     "ids": [
+      "-где-используется-latex",
       "-зачем-нужен-cicd",
+      "-итоги-учебной-недели",
       "-непрерывная-интеграция-ci",
       "-непрерывная-поставка-cd",
       "-непрерывное-развертывание",
+      "-преимущества-latex",
+      "-языки-разметки-latex",
       "code",
       "did-you-find-this-page-helpful-consider-sharing-it-",
       "hide-button",
       "inline-images",
+      "latex-профессиональный-инструмент-для-оформления-документов",
       "math",
       "moon",
       "nav-menu",
@@ -611,9 +621,11 @@
       "test-students",
       "top",
       "video",
+      "заключение",
       "итоги-недели",
       "непрерывная-интеграция-и-развертывание-cicd",
-      "о-себе"
+      "о-себе",
+      "языки-разметки--что-это-такое"
     ]
   }
 }
